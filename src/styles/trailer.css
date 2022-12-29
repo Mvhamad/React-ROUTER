@@ -1,0 +1,27 @@
+.all{
+    background-color: #152238;
+    color: #fff;
+    height: 100vh;
+}
+.re {
+    width: 70rem ;
+}
+h2 {
+    text-align: center ;
+    margin: 50px;
+}
+.Trailer {
+    display: flex;
+    justify-content: center;
+}
+iframe {
+    width: 107vh;   
+    height: 60vh;
+}
+.vid{
+    display: flex;
+    justify-content: center;
+}
+p {
+    font-size: larger;
+}

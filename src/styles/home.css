@@ -1,0 +1,55 @@
+.filter{
+    background-color: #152238;
+    color: #fff;
+  }
+  
+  h1{
+    font-family: cursive;
+  }
+  .head h1:hover {
+    color: black;
+    cursor: pointer;
+  }
+  
+  .head {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .addMovie {
+    color: #152238;
+  }
+  
+  .addMovie {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+  }
+  .title{
+    text-align: center;
+  }
+  label {
+   display: block;
+   padding: 1rem;
+  }
+  
+  button {
+    background-color: #152238;
+    color: #fff;
+    font-size: larger;
+    width: 10rem;
+    border-radius: 2rem;
+    margin-left: 40%;
+    margin-top: 2rem;
+  }
+  
+  button:hover {
+    cursor: pointer;
+    background-color: #fff;
+    color: #152238;
+  }
+  
+  form input{
+    width: 40rem;
+  }
